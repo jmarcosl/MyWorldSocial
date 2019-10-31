@@ -1,4 +1,4 @@
-# MysWorldSocial
+# MyWorldSocial
 
 Execício de Layouts avançados com Java Swing.
 
