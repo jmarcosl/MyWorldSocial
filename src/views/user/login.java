@@ -54,7 +54,7 @@ public class login extends javax.swing.JFrame {
         btnClose.setForeground(new java.awt.Color(255, 255, 255));
         btnClose.setText("x");
         btnClose.setAlignmentY(0.0F);
-        PainelRoot.add(btnClose, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 10, 20, 30));
+        PainelRoot.add(btnClose, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 10, 20, 30));
 
         psSenha.setFont(new java.awt.Font("Leelawadee UI", 0, 14)); // NOI18N
         psSenha.setForeground(new java.awt.Color(130, 70, 117));
